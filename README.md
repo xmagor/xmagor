@@ -5,7 +5,7 @@
 Software developer, cyber security enthusiast and Mechanical engineer. I enjoy participating in Capture the Flag-CTF cybersecurity challenges.
 
 
-<a href="mailto:conmagor@gmail.com"><img src="https://user-images.githubusercontent.com/18307144/198903152-6d66028b-f452-489d-9f8c-13627e320d18.png" alt="icon | Telegram" width="21px"></a>  
+<a href="mailto:conmagor0@gmail.com"><img src="https://user-images.githubusercontent.com/18307144/198903152-6d66028b-f452-489d-9f8c-13627e320d18.png" alt="icon | Telegram" width="21px"></a>  
 
 
 ## 🔭 I’m currently working on:
