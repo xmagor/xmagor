@@ -45,4 +45,5 @@ Software developer, cyber security enthusiast and Mechanical engineer. I enjoy p
 ## 📈 Github Stats:
 [![Magor’s github stats](https://github-readme-stats.vercel.app/api?username=xmagor&count_private=true&show_icons=true&range=all_time)](https://github.com/xmagor)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmagor&layout=compact&range=all_time)](https://github.com/xmagor)
 
