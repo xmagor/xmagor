@@ -42,6 +42,10 @@ Software developer, cyber security enthusiast and Mechanical engineer. I enjoy p
 - Telegam API
 ## 📓 Latest Blog Posts:
 
+- [Length Extension Attack en SHA-2 Parte 1](https://conmagor.com/length-extension-attack-en-sha-2-parte-1)
+
+You can read all my post in [https://conmagor.com](https://conmagor.com) (But mainly it will be written in Spanish).
+
 ## 📈 Github Stats:
 [![Magor’s github stats](https://github-readme-stats.vercel.app/api?username=xmagor&count_private=true&show_icons=true&range=all_time)](https://github.com/xmagor)
 
